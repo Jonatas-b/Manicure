@@ -281,4 +281,105 @@ footer p {
     margin: 50px 0;
     margin-left: auto;
     margin-right: 70px;
+
 }
+
+/* Mobile */
+@media (max-width: 700px) {
+    body {
+        text-align: center;
+    }
+
+    section {
+        flex-direction: column;
+        padding: 0 2rem;
+        height: auto;
+    }
+
+    .info {
+        padding: 20px;
+        width: 100%;
+        height: auto;
+        margin: 20px 0;
+    }
+
+    h1 {
+        font-size: 40px;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .imgHero {
+        width: 100%;
+        height: 500px;
+        margin: 20px 0;
+    }
+
+    .imgbox {
+        flex-direction: column;
+        height: 600px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    .imgSec2 {
+        width: 100%;
+        height: auto;
+        margin: 10px 0;
+    }
+
+    .infoSec2 {
+        width: 100%;
+        height: auto;
+        margin: 20px 0;
+        padding: 0 10px;
+    }
+
+    .sec3 div {
+        padding: 20px 1rem;
+        margin-top: 100px;
+        height: 550px;
+    }
+
+    .sec4 {
+        padding: 0 2rem;
+        padding-bottom: 50px;
+    }
+
+    .sec4 div {
+        flex-direction: column;
+    }
+
+    #card {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .sec4 img {
+        width: 280px;
+        height: 280px;
+    }
+
+    footer {
+        flex-direction: column;
+        margin: 0 2rem;
+        padding-bottom: 50px;
+    }
+
+    footer div {
+        width: 100%;
+        height: auto;
+        margin: 20px 0;
+        padding: 20px;
+    }
+
+    .footerImg {
+        width: 100%;
+        height: auto;
+        margin: 20px 0;
+    }
+
+    .del {
+        display: none;
+    }
+} 
