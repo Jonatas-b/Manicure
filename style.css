@@ -281,7 +281,11 @@ footer p {
     margin: 50px 0;
     margin-left: auto;
     margin-right: 70px;
+}
 
+.copy {
+    display: block;
+    
 }
 
 /* Mobile */
@@ -388,4 +392,3 @@ footer p {
         display: none;
     }
 } 
-
