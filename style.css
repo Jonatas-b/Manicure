@@ -6,7 +6,7 @@
 
 html, body {
     background-color: #FFDFB9;
-    scrollbar-behavior: smooth;
+    scroll-behavior: smooth;
     overscroll-behavior: none; /* bloqueia o scrool além do conteúdo */
     scrollbar-width: none; /* esconde a barra (FireFox) */
 }
@@ -394,3 +394,4 @@ footer p {
     }
 
 } 
+
