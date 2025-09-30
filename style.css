@@ -4,18 +4,10 @@
     box-sizing: border-box;
 }
 
-html, body {
-    background-color: #FFDFB9;
+html {
     scroll-behavior: smooth;
-    overscroll-behavior: none; /* bloqueia o scrool além do conteúdo */
-    scrollbar-width: none; /* esconde a barra (FireFox) */
+    overflow-x: hidden;
 }
-
-/* esconde a barra (Chrome, Safari e Edge) */
-::-webkit-scrollbar {
-  display: none;
-}
-
 
 h1, h2 {
     font-family: 'Belleza', sans-serif;
@@ -394,4 +386,5 @@ footer p {
     }
 
 } 
+
 
