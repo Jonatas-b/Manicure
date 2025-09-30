@@ -7,6 +7,7 @@
 html {
     scroll-behavior: smooth;
     overflow-x: hidden;
+    overscroll-behavior: none; /* bloqueia o scrool além do conteúdo */
 }
 
 h1, h2 {
@@ -386,5 +387,6 @@ footer p {
     }
 
 } 
+
 
 
