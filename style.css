@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+html, body {
+    background-color: #FFDFB9;
+}
+
 html {
     scroll-behavior: smooth;
     overflow-x: hidden;
@@ -387,6 +391,7 @@ footer p {
     }
 
 } 
+
 
 
 
