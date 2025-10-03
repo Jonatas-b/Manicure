@@ -26,7 +26,7 @@ Esse projeto foi construído com:
 
 ## 📌 Sobre o Projeto
 
-DECRIÇÃO DO PROJETO  
+Um site desenvolvido para apresentar serviços de uma **manicure** de forma clara e acolhedora. A proposta é criar uma experiência digital leve, onde o visitante se sinta bem-vindo, possa conhecer os serviços e tenha uma navegação agradável e intuitiva.  
 
 👉 [Acesse o projeto aqui](https://jonatas-b.github.io/Manicure/)  
 
