@@ -22,7 +22,6 @@ Esse projeto foi construído com:
 
 - *HTML5*  
 - *CSS3*  
-- *JavaScript*
 
 ## 📌 Sobre o Projeto
 
